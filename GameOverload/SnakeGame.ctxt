@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=SnakeGame()
+comment1.params=
+comment1.target=void\ display()
+comment2.params=
+comment2.target=void\ startGame()
+comment3.params=
+comment3.target=void\ gameLoop()
+comment4.params=score
+comment4.target=void\ setScore(int)
+comment5.params=
+comment5.target=void\ stopGame()
+numComments=6
